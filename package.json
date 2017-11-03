@@ -1,0 +1,12 @@
+{
+  "name": "Nat20",
+  "version": "0.0.1",
+  "main": "main.ts",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "BloodRaine",
+  "devDependencies": {
+    "electron": "1.7.9"
+  }
+}
